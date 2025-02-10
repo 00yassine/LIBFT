@@ -16,6 +16,9 @@
 # include <unistd.h>
 # include <string.h>
 # include <fcntl.h>
+# include <limits.h>
+# include <stdint.h>
+# include <stddef.h>
 
 typedef struct split
 {
